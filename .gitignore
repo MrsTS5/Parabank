@@ -1,0 +1,26 @@
+# Node.js dependencies
+node_modules/
+package-lock.json
+
+# Cypress-generated files
+cypress/screenshots/
+cypress/videos/
+
+# Cypress cache & logs
+.cypress_cache/
+cypress/logs/
+
+# Environment variables (if any)
+.env
+cypress.env.json
+
+# Ignore VS Code settings
+.vscode/
+
+# Allure and Mochawesome reports (if using them)
+allure-results/
+mochawesome-report/
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
